@@ -1,1 +1,1 @@
-The Game of Life is a cellular automaton devised by the British Mathematician John Horton Conway in 1970.
+The Game of Life is a cellular automaton devised by the British Mathematician John Horton Conway in 1970.It proceeds from generation to generation on a grid of "cells" that are born, live, and die according to a small set of rules.
